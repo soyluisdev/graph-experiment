@@ -4,3 +4,5 @@
 This is just an experiment and a github hack, created for fun use at your own risk. 
 Comming versions include different patterns.
 Contributions are welcome and if you have any other tip, please feel free to fork it and share it.
+
+*Contributions to the GitHub platform are very subjetive and do not make you a good programmer; coding and practice and constancy will do that*
