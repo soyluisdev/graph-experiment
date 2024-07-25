@@ -1,6 +1,8 @@
+# Import os and random libraries
 import os
 from random import randint
 
+# Iterate 
 for i in range(1, 3):
 
     for j in range(0,randint(1,10)):
