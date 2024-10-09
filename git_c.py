@@ -3,9 +3,9 @@ import os
 from random import randint
 
 # Iterate 
-for i in range(1, 3):
+for i in range(1, 70):
 
-    for j in range(0,randint(1,10)):
+    for j in range(0,randint(1,2)):
         d = str(i) + ' days ago'
         with open('legend.txt', 'a') as file:
             file.write(d)
